@@ -6,6 +6,7 @@ import Image from 'next/image';
 // import styles from '@/app/ui/home.module.css'; importamos la clase al componente
 
 export default function Page() {
+  
   return (
     <main className="flex min-h-screen flex-col p-6">
       {/* <div className={styles.shape} /> Asi es como se debe importar los estilos */}
